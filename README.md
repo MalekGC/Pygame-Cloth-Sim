@@ -1,2 +1,2 @@
 # Pygame-Cloth-Sim
-A project I did to try and do  a cloth simulation from scratch
+A close simulation I did as a fun side project.
