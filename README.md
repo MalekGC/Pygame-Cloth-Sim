@@ -1,7 +1,9 @@
 # Pygame-Cloth-Sim
 A cloth simulation I did as a fun side project.    
 Everything was done from scratch except the dot and line drawing, and the mouse input handling were done using pygame.     
-Everything else (Physics simulation, custom data types, camera movement...) was done from scratch.
+Everything else (Physics simulation, custom data types, camera movement...) was done from scratch.    
+Preview link: https://www.youtube.com/watch?v=z-KKZzuvC-8
+
 # Controls
 - **Left click** to add an unlocked node.
 - **Left click while right clicking** to add a locked node. 
